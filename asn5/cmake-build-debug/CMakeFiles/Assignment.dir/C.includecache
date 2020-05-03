@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shawn/Desktop/Assignment/bstree.h
+datatype.h
+C:/Users/shawn/Desktop/Assignment/datatype.h
+
+C:/Users/shawn/Desktop/Assignment/datatype.h
+
+C:/Users/shawn/Desktop/Assignment/matrix.c
+stdio.h
+-
+stdlib.h
+-
+datatype.h
+C:/Users/shawn/Desktop/Assignment/datatype.h
+bstree.h
+C:/Users/shawn/Desktop/Assignment/bstree.h
+matrix.h
+C:/Users/shawn/Desktop/Assignment/matrix.h
+
+C:/Users/shawn/Desktop/Assignment/matrix.h
+

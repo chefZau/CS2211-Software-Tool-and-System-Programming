@@ -1,0 +1,26 @@
+Script started on 2018-11-15 16:04:59-05:00
+bash-4.4$ who am i
+mzhou272 pts/9        Nov 15 16:04
+bash-4.4$ date
+Thu Nov 15 16:05:05 EST 2018
+bash-4.4$ pwd
+/gaul/s1/student/2018/mzhou272/Courses/CS2211a/Asns/zipasn4/asn4/part2
+bash-4.4$ ./main 
+how precise do you want: 0.0001
+the Pi is:  3.141543
+bash-4.4$ ./main 
+how precise do you want: 0.001
+the Pi is:  3.141093
+bash-4.4$ ./main 
+how precise do you want: 0.00001 01
+the Pi is:  3.141592
+bash-4.4$ ./main 
+how precise do you want: 0.00000001
+the Pi is:  3.141593
+bash-4.4$ ./mia   main 
+how precise do you want: 0.00000000001
+^C
+bash-4.4$ exit
+exit
+
+Script done on 2018-11-15 16:07:34-05:00

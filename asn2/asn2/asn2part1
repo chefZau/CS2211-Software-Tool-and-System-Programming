@@ -1,0 +1,160 @@
+Script started on 2018-10-17 16:23:52-04:00
+bash-4.4$ gcc converter.c -o converter
+bash-4.4$ who     pwd
+/gaul/s1/student/2018/mzhou272/Courses/CS2211a/Asns/zipasn2/asn2
+bash-4.4$ date
+Wed Oct 17 16:24:23 EDT 2018
+bash-4.4$ who am i
+mzhou272 pts/10       Oct 17 16:23
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:q 1
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: K
+what is your input value:1
+The Value is: 0.621000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:1
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: M
+what is your input value:1
+The Value is: 1.609000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:2
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter
+Enter your direction plz: M
+what is your input value:1
+The Value is: 3.281000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:2
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter
+Enter your direction plz: F
+what is your input value:1
+The Value is: 0.325000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:3
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+Enter your direction plz: C
+what is your input value:1
+The Value is: 0.394000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:3
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+Enter your direction plz: I
+what is your input value:1
+The Value is: 2.540000 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:4
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+Enter your direction plz: C
+what is your input value:1
+The Value is: 33.799999 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:4
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+Enter your direction plz: F
+what is your input value:1
+The Value is: -17.222221 
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:5
+bash-4.4$ ./converter 
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:4 6
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:7
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:8
+• 1 for conversion between Kilometer and Mile
+• 2 for conversion between Meter and Feet
+• 3 for conversion between Centimetre and Inch
+• 4 for conversion between Celsius and Fahrenheit
+• 5 for quit
+Please enter:1
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: k
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: m
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: i
+K for conversion from Kilometer to Mile, 
+M for conversion from Mile to Kilometer 
+enter the direction plz: K
+what is your input value:22
+The Value is: 13.662000 
+bash-4.4$ exit    who am i
+mzhou272 pts/10       Oct 17 16:23
+bash-4.4$ pwd
+/gaul/s1/student/2018/mzhou272/Courses/CS2211a/Asns/zipasn2/asn2
+bash-4.4$ date
+Wed Oct 17 16:27:30 EDT 2018
+bash-4.4$ exit
+exit
+
+Script done on 2018-10-17 16:27:33-04:00
